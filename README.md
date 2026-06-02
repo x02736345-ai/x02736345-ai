@@ -1,20 +1,8 @@
-## Uma entrevista com o coelho 
+## Uma entrevista com o coelhinho Kabbity 
 Q1: Qual é a sua cor favorita 🖌️?
+
 R: A cor que eu mais gosto é verde Kentucky!
 
+Q2: Qual é o tipo de música que você mais escutar?
 
-<!--
-**x02736345-ai/x02736345-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
- - 🖌️ A minha cor favorita**git hub**
-R:Verde Kentucky 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+R:Eu? Gosto de ouvir 
