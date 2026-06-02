@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 A minha cor favorita 
+- 🖌️ A minha cor favorita 
+  R:Verde Kentucky 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
